@@ -45,6 +45,10 @@ main {
   font-size: 2rem;
 }
 
+.footer {
+  text-align: center;
+}
+
 /* ELEMENTS STYLE */
 h1 {
   font-size: 4rem;
